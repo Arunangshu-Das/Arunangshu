@@ -19,8 +19,8 @@
 }
 
 *::selection{
-    background:var(--orange);
-    color:#333;
+    background:#f70000;
+    color:#ffffff;
 }
 
 html{
